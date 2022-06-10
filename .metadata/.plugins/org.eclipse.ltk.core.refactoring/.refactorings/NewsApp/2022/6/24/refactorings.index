@@ -17,3 +17,7 @@
 1654559294793	Move compilation unit
 1654559305175	Delete element
 1654559307537	Delete element
+1654842166822	Rename package 'com.newsapp'
+1654842196336	Rename package 'com.newsapp.config'
+1654842217342	Rename package 'com.newsapp.controller'
+1654842426414	Rename package 'com.demo'
